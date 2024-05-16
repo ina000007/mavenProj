@@ -15,6 +15,7 @@ public class JavaStream {
 //		filterMethod();
 //		filterMethod1();
 //		
+		System.out.println("Code updated");
 		mapMethod();
 	}
 	
